@@ -1,4 +1,4 @@
-# u# 🔐 UnLockMe — Smart Campus Locker
+# 🔐 UnLockMe — Smart Campus Locker
 
 UnLockMe adalah konsep UI/UX aplikasi smart locker yang dirancang untuk membantu mahasiswa menggunakan loker di lingkungan kampus dengan lebih praktis.
 
