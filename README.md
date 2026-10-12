@@ -20,7 +20,38 @@ Antarmuka aplikasi dirancang menggunakan Figma.
 
 ## 📱 Screenshots
 
-Screenshot desain akan ditambahkan pada bagian ini.
+## 📱 UnLockMe UI/UX Design
+
+### 1. Login
+![Login](./login.png)
+
+![Login Alternative](./login1.png)
+
+### 2. Account
+![Account](./account.png)
+
+### 3. Locker
+![Locker Features](<./fitur locker.png>)
+
+![Locker Features Alternative](<./fitur locker2.png>)
+
+![Locker Detail](<./detail locker.png>)
+
+### 4. QR Code
+![QR Code](<./qr code.png>)
+
+### 5. Payment
+![Payment](./pembayaran.png)
+
+![Payment Alternative](./pembayaran2.png)
+
+![Payment Successful](<./sukses pembayaran.png>)
+
+### 6. Notifications
+![Notifications](./Notifikasi.png)
+
+### 7. Usage History
+![Usage History](./Riwayat.png)
 
 ## 📌 Project Status
 
